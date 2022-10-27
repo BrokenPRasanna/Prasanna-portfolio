@@ -1,0 +1,30 @@
+p {
+  color: lightgoldenrodyellow;
+}
+h1 {
+   color: aquamarine;
+  text-align: center;
+  text-shadow: 1px 4px rgb(255, 31, 31);
+}
+body{
+  background-color: black;
+}
+h3{
+  color: antiquewhite;
+}
+h4{
+  color: azure;
+}
+h2{
+  color: salmon;
+  text-decoration: underline double;
+}
+h5{
+  color: bisque;
+}
+h6{
+  color: darkturquoise;
+}
+ul{
+  color: chocolate;
+}
